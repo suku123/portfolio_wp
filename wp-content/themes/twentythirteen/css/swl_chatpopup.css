@@ -1,0 +1,405 @@
+﻿.swl_chatSmileyPopup,#swl_popup
+{       
+    border: 1px solid #404040;
+    position: absolute;
+    width: 445px;
+    height: 435px;
+    overflow-x:hidden;
+    font-family: Arial, Georgia, Verdana, Sans-Serif;
+    font-smooth: always;
+    font-size: 12px;
+    background-color: #E6E6E6;
+    line-height: 100%;
+    color: black;
+    z-index: 9990;
+}
+
+#swl_popup
+{
+    font-family: Arial, Georgia, Verdana, Sans-Serif;
+    font-smooth: always;
+    font-size: 12px;
+    color: black;
+}
+
+#swl_popup a
+{
+    color: blue;
+}
+
+#swl_popup hr
+{
+    margin-bottom: .5em;
+    margin-top: .5em;
+}
+
+#swl_popup p
+{
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+
+.swl_logo
+{
+    line-height: 100%;
+}
+
+#swl_logo
+{
+    text-decoration: none;
+    border: none;
+    line-height: 100%;
+}
+
+#swl_logo img
+{
+    border: none;
+    margin: 3px;
+}
+
+#swl_chatPopupPlaceholder
+{
+    display: none;
+}
+
+.swl_facebookChatSmileyPopup
+{       
+    left: -428px;
+    top: -120px;
+}
+
+.swl_gtalkChatSmileyPopup
+{       
+    left: -428px;
+    top: -120px;
+}
+
+.swl_gtalkChatSmileyPopupPoppedOut
+{       
+    left: 0px;
+    top: 30px;
+    width: 425px;
+}
+
+#swl_popup .swl_chatSmileyPopupCloseButton
+{
+    background-image: url(https://smileyswelove.com/extension/swl_close.png);
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 4px;
+    right: 4px;
+    width: 16px;
+    height: 16px;
+    cursor: pointer;
+}
+
+#swl_page 
+{
+	overflow: hidden;
+}
+
+#swl_left 
+{
+	float: left;
+	width: 75px;
+	overflow-x: hidden;
+	margin-left: 3px;
+}
+
+#swl_right
+{
+	overflow: -moz-scrollbars-vertical;
+    overflow-y: hidden;
+    overflow-x: hidden;
+	float: left;
+    width: 300px;
+    background-color: #d3d3d3;
+    padding-left: 3px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin-bottom: 3px;
+}
+
+#swl_popup .swl_menu
+{
+	padding: 3px;
+	text-transform:capitalize;
+    line-height: 100%;
+}
+
+#swl_popup .swl_menu:hover
+{
+    background-color: #d3d3d3;
+    font-weight: bold;
+	cursor: pointer;
+}
+
+#swl_popup .swl_currentMenu
+{
+    background-color: #d3d3d3;
+    font-weight: bold;
+}
+
+#swl_popup .swl_smiley
+{
+	display: inline;
+	padding: 4px;
+	background-color: white;
+	cursor: pointer;
+}
+
+#swl_popup .swl_one_smiley
+{
+    display: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#swl_popup .swl_center_smiley
+{
+    display: block;
+	margin: 0px auto;
+	vertical-align: middle;	
+	text-align: center;
+    max-height: 300px;
+    max-width: 350px;
+}
+
+#swl_popup div.swl_smiley
+{
+    border: 1px solid lightSlateGray;
+    display: inline;
+    float: left;
+    width: 84px;
+    height: 84px;
+    margin: 1px;
+    -moz-box-sizing: content-box;
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+}
+
+#swl_popup div.swl_smiley:hover
+{
+    border: 1px ridge #2f4f4f;
+}
+
+#swl_popup div.swl_menuContents
+{
+    display: none;
+}
+
+#swl_popup img.swl_smileyimg
+{
+    vertical-align:middle;
+    display: block;
+    max-width: 80px; 
+    max-height: 80px;
+    margin-top: 2px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    -moz-box-sizing: content-box;
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+}
+
+img.swl_smileyOutputImage
+{
+    border: none;
+}
+
+#swl_header1
+{
+    font-size: 14px;
+    font-style: italic;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+#swl_header2
+{
+    font-size: 14px;
+    font-style: italic;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+#swl_header
+{
+    font-size: 16px;
+    font-style: italic;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+#swl_instructions
+{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#swl_textarea
+{
+    padding-top: 5px;
+    padding-bottom: 5px;            
+}
+        
+#swl_controls
+{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    height: 25px;
+}
+
+#swl_help
+{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#swl_mailsupport
+{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.swl_share
+{
+    list-style: none;
+    margin: 10px;
+    line-height: 62px;
+}
+
+.swl_share li
+{
+    float: left;
+    width: 105px;
+    vertical-align:middle;
+}
+
+.swl_share img
+{
+    border: 1px solid rgb(230, 230, 230);
+}
+
+.swl_share img:hover
+{
+    cursor: pointer;
+    border: 1px solid dimgray;
+    border-radius: 4px;
+}
+
+#swl_overlay,#swl_overlay_active
+{
+    position: absolute;
+    z-index: 9991;
+    border: 1px solid;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    min-height: 136px;
+    min-width: 136px;
+}
+
+#swl_overlay_share
+{
+    position: absolute;
+    height: 40px;
+    z-index: 9992;
+}
+
+#swl_overlay_share ul
+{
+    list-style: none;
+    margin: 11px 8px 8px 8px;
+    padding: 0px;
+}
+
+#swl_overlay_share ul li
+{
+    float: left;
+    width: 40px;
+    vertical-align:middle;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+#swl_overlay_share img
+{
+    width: 24px;
+    height: 24px;
+}
+
+#swl_overlay_share img:hover
+{
+    cursor: pointer;
+    border: 1px solid #e4e4e4;
+    border-radius: 4px;
+}
+
+#swl_overlay_favorites
+{
+    position: relative;
+    float: right;
+    z-index: 9992;
+    margin: 4px;
+}
+
+#swl_overlay_favorites img
+{
+    width: 24px;
+    height: 24px;
+}
+
+#swl_overlay_favorites img:hover
+{
+    cursor: pointer;
+    border: 1px solid #e4e4e4;
+}
+
+#swl_overlay_smiley
+{
+    display: inline;
+    float: left;
+    width: 84px;
+    height: 84px;
+    margin: 1px;
+    cursor: pointer;
+    padding: 5px;
+}
+
+#swl_overlay_smiley img.swl_smileyOutputImage
+{
+    vertical-align:middle;
+    display: block;
+    margin-top: 2px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#swl_footer
+{
+    background-color: #EEE;
+    color: #999;
+    padding: 10px 0;
+    line-height: normal;
+    margin: 0px;
+    font-size: .9em;
+    border-top: 1px solid #e4e4e4;
+}
+
+#swl_footer_links
+{
+    text-align: right;
+    padding-right: 10px;
+}
+
+#swl_footer a
+{
+    font-size: 0.8em;
+    text-decoration: none;
+}

@@ -1,0 +1,83 @@
+/* my styles */
+body{
+	margin: 0 auto;
+}
+.content{
+	background: url(../img/gradient_bg.jpg);
+	background-repeat: repeat;
+}
+.navinner {
+	width: 900px;
+}
+.leftnav {
+}
+#header {
+	height: 130px;
+}
+.navbar-nav>li>a { color: #000; font-family: Arial; font-size: 1.2em; text-transform: uppercase; padding: 10px 15px; margin:0 }
+.navbar-nav>li>a:hover { color: #777; }
+.contents {
+	margin-top: 20px;
+}
+#desc {
+	padding: 23px;
+	width :320px;
+	height: 385px;
+	background-color:#CBDCF8;
+	border: 1px solid #7893A9;
+	border-radius: 5px;
+	float: right;
+}
+#aboutdesc {
+	padding: 25px;
+	width :418px;
+	height: 379px;
+	background-color:#CBDCF8;
+	border: 1px solid #7893A9;
+	border-radius: 5px;
+	float: right;
+}
+#contactdesc {
+	padding: 25px;
+	width :418px;
+	height: 379px;
+	background-color:#CBDCF8;
+	border: 1px solid #7893A9;
+	border-radius: 5px;
+	float: right;
+}
+/*footer*/
+#footer { background-color: #7893A9 ; padding: 20px 0; margin-top: 5px; }
+#footer p { 
+	color: #000; 
+	padding-bottom: 4px;
+	text-align: center;
+ }
+
+ /*styles for sticky footer*/
+ html, body {height: 100%;}
+
+#wrap {min-height: 100%;}
+
+#main {overflow:auto;
+	padding-bottom: 20px;}  
+
+#footer {position: relative;
+	margin-top: 1px; 
+	height: 20px;
+	clear:both;} 
+
+/*portfolio page*/
+ .portfolio-item {
+	width: 182px; padding: 4px; background: #eee; text-align: center;
+	float: left; margin: 0 7px 14px 7px;
+}
+	#contentp .portfolio-item p.btn {
+		margin: 0;
+	}
+	#contentp .portfolio-item p.btn a {
+		display: block; width: 155px; height: 25px; padding: 0;
+		background: url(img/see-more-bg.png);
+		font-weight: bold; text-align: center; text-transform: uppercase;
+		text-decoration: none;
+	}

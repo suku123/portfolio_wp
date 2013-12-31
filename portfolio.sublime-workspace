@@ -1,0 +1,575 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wp_l",
+				"wp_loginout"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"b",
+				"bd	border"
+			],
+			[
+				"bt",
+				"bdt	border-top"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"p",
+				"p	padding"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"AU",
+				"auto"
+			],
+			[
+				"R",
+				"right"
+			],
+			[
+				"S",
+				"solid"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"lis",
+				"list	list-style-type"
+			],
+			[
+				"n",
+				"normal"
+			],
+			[
+				"He",
+				"Helvetica"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "wp-content/themes/portfolio/style.css",
+			"settings":
+			{
+				"buffer_size": 4540,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wp-content/themes/portfolio-child/style.css",
+			"settings":
+			{
+				"buffer_size": 1056,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wp-content/themes/portfolio-child/slider.php",
+			"settings":
+			{
+				"buffer_size": 466,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wp-content/themes/portfolio/header.php",
+			"settings":
+			{
+				"buffer_size": 2888,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wp-content/themes/portfolio-child/footer.php",
+			"settings":
+			{
+				"buffer_size": 1360,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wp-content/themes/portfolio/front-page.php",
+			"settings":
+			{
+				"buffer_size": 198,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wp-content/themes/portfolio-child/content-front.php",
+			"settings":
+			{
+				"buffer_size": 226,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wp-content/themes/portfolio-child/page-about.php",
+			"settings":
+			{
+				"buffer_size": 552,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Code Folding: Unfold All"
+			],
+			[
+				"p",
+				"Project: Edit"
+			],
+			[
+				"syntax sa",
+				"Set Syntax: Sass"
+			],
+			[
+				"set syntax sas",
+				"Set Syntax: Sass"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"set syntax p",
+				"Set Syntax: PHP"
+			],
+			[
+				"syntax h",
+				"Set Syntax: HTML5"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio/slider.php",
+		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio/sidebar.php",
+		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio/page-blog.php",
+		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio/sass/style.sass",
+		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio/header.php",
+		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio/css/style.css",
+		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio-child/style.css",
+		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio-child/slider.php",
+		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio/home.php",
+		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio/style.css",
+		"/C/xampp/htdocs/movebox/sass/style1.sass",
+		"/C/xampp/htdocs/movebox/haml/try.haml",
+		"/C/xampp/htdocs/movebox/css/style.css",
+		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio/js/preload.js",
+		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio/css/styleorg.css",
+		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio/css/style1.css",
+		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio/page-portfolio.php",
+		"/C/xampp/htdocs/movebox/html/try.html",
+		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio/comments.php",
+		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio/content-front.php",
+		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio/footer.php",
+		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio/front-page.php",
+		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio/functions.php",
+		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio/index.php",
+		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio/page-about.php",
+		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio/page-contact.php",
+		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio/page.php",
+		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio/searchform.php",
+		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio/single.php",
+		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio/slider - Copy.php",
+		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio/js/script1.js",
+		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio/css/flexslider.css",
+		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio/sidebar - Copy.php",
+		"/C/xampp/htdocs/movebox/haml/try.html",
+		"/C/xampp/htdocs/portfolio_wp/portfolio.sublime-project",
+		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio/css/style1 (2).css",
+		"/C/Users/suku/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/C/Users/suku/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/suku/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"slides",
+			"#7893A9",
+			"#cbdcf8",
+			"hello",
+			"slides"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$border-color",
+			"$textbg-color"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "wp-content/themes/portfolio/style.css",
+					"settings":
+					{
+						"buffer_size": 4540,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3889,
+								3628
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4066.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "wp-content/themes/portfolio-child/style.css",
+					"settings":
+					{
+						"buffer_size": 1056,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								631,
+								631
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 110.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "wp-content/themes/portfolio-child/slider.php",
+					"settings":
+					{
+						"buffer_size": 466,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								33,
+								33
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "wp-content/themes/portfolio/header.php",
+					"settings":
+					{
+						"buffer_size": 2888,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2252,
+								2252
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1076.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "wp-content/themes/portfolio-child/footer.php",
+					"settings":
+					{
+						"buffer_size": 1360,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								80,
+								80
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "wp-content/themes/portfolio/front-page.php",
+					"settings":
+					{
+						"buffer_size": 198,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "wp-content/themes/portfolio-child/content-front.php",
+					"settings":
+					{
+						"buffer_size": 226,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								222,
+								222
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "wp-content/themes/portfolio-child/page-about.php",
+					"settings":
+					{
+						"buffer_size": 552,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								58,
+								58
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/xampp/htdocs/movebox/movebox.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

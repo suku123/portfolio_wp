@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'oswaldregular';
+    src: url('../fonts/Oswald-Regular.ttf');
+    src: url('../fonts/Oswald-Regular.ttf?#iefix') format('embedded-opentype'),
+    		url('../fonts/Oswald-Regular.ttf') format('woff'),
+         url('../fonts/Oswald-Regular.ttf') format('truetype'),
+         url('../fonts/Oswald-Regular.svg#oswaldregular') format('svg');
+
+       
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'preeti';
+    src: url('../fonts/PREETI_2.TTF');
+    src: url('../fonts/PREETI_2.TTF?#iefix') format('embedded-opentype'),
+            url('../fonts/PREETI_2.TTF') format('woff'),
+         url('../fonts/PREETI_2.TTF') format('truetype'),
+         url('../fonts/PREETI_2.svg#oswaldregular') format('svg');
+
+       
+    font-weight: normal;
+    font-style: normal;
+
+}
+h1{
+	font-family: "oswaldregular";
+	text-align: center;
+}
+h2{
+    font-family: "preeti";
+    text-align: center;
+    font-size: 16px;
+}

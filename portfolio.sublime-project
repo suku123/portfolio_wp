@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"path": "wp-content/themes/portfolio"
+		},
+		{
+			"path": "wp-content/plugins"
+		},
+		{
+			"path": "/C/xampp/htdocs/movebox"
+		},
+		{
+			"path": "wp-content/themes/portfolio-child"
+		}
+	]
+}

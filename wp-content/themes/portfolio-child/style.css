@@ -1,0 +1,49 @@
+/* Theme Name: portfolio-child
+ * Theme URI: http://localhost/wp_portfolio/wp-content/themes/portfolio-child
+ * Author:Suku Nepali
+ * Author URI:http://www.suku.com.np
+ * Description: This is themes for the portfolio
+ * Version: 1.1
+ * Template: portfolio
+ * Tags: portfolio,suku,parent
+ */
+@import url("../portfolio/style.css");
+@import url("../portfolio/css/bootstrap.min.css");
+@import url("../portfolio/css/bootstrap-responsive.min.css");
+@import url("../portfolio/css/responsive-slider.css");
+
+body.customize-support {
+  background: #777 repeat fixed;
+  font: normal 14px/1.5 Helvetica sans-serif; }
+
+#wrap {
+  margin: 0 auto;
+  width: 88%;
+  background: rgba(13, 55, 82, 0.5);
+  background-attachment: fixed; }
+.flexslider ul.slides {
+  width: 763px;
+  height: 379px;
+  padding: 2px 3px 2px 3px;
+  background-color: #6053c9; }
+
+.sidebar {
+  padding: 23px;
+  width: 274px;
+  height: 100%;
+  background-color: #cbdcf8;
+  border: 1px solid #7893a9;
+  border-radius: 5px;
+  float: left;
+  overflow: auto; }
+
+.single-post {
+
+  padding: 23px;
+  width: 768px;
+  margin-left: 0px;
+ }
+#desc{
+  margin-bottom: 5px;
+}
+  
