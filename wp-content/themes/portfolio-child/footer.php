@@ -1,6 +1,5 @@
-
 			<div id="footer">
-				<p>&copy 2007-<?php echo date('Y');?>&nbsp;Suku Kumar Nepali All Rights Reserved.</p>
+				<p>&copy 2007-<?php echo date('Y');?>&nbsp;Suku Kumar Nepali Lamjung All Rights Reserved.</p>
 			</div>
 	    	<?php wp_footer();?>
 			<script>
