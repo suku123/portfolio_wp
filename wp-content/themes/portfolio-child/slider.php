@@ -1,7 +1,3 @@
-<?php
-/* Template Name: slider
-*/
-?>
 <div class="container">
 	<div class="row">
 		<div class="span12 span8 contents">
@@ -15,4 +11,4 @@
 			    </li>
 			  </ul>
 			</div> <!-- end flexslider -->
-		</div>	<!-- end contents -->
+		</div>

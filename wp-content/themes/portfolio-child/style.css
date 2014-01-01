@@ -12,7 +12,7 @@
 @import url("../portfolio/css/bootstrap-responsive.min.css");
 @import url("../portfolio/css/responsive-slider.css");
 
-body.customize-support {
+body {
   background: #777 repeat fixed;
   font: normal 14px/1.5 Helvetica sans-serif; }
 
@@ -45,5 +45,3 @@ body.customize-support {
  }
 #desc{
   margin-bottom: 5px;
-}
-  

@@ -5,7 +5,7 @@
 
 <?php get_header(); ?>
 
-	<?php include(TEMPLATEPATH . '/slider.php');?>
-	<?php include(TEMPLATEPATH . '/content-front.php');?>
+	<?php get_template_part('slider');?>
+	<?php get_template_part('content','front');?>
 						
 <?php get_footer(); ?>
