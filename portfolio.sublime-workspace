@@ -72,16 +72,24 @@
 	"buffers":
 	[
 		{
-			"file": "wp-content/themes/portfolio-child/content-front.php",
+			"file": "wp-content/themes/portfolio-child/style.css",
 			"settings":
 			{
-				"buffer_size": 226,
+				"buffer_size": 1093,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wp-content/themes/portfolio-child/slider.php",
+			"settings":
+			{
+				"buffer_size": 406,
 				"line_ending": "Windows"
 			}
 		},
 		{
 			"contents": "",
-			"file": "wp-content/themes/portfolio-child/includes/slider.php",
+			"file": "wp-content/themes/portfolio-child/page-about.php",
 			"file_size": -1,
 			"file_write_time": -1,
 			"settings":
@@ -91,26 +99,10 @@
 			}
 		},
 		{
-			"file": "wp-content/themes/portfolio/front-page.php",
-			"settings":
-			{
-				"buffer_size": 198,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "wp-content/themes/portfolio-child/front-page.php",
 			"settings":
 			{
-				"buffer_size": 188,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "wp-content/themes/portfolio-child/style.css",
-			"settings":
-			{
-				"buffer_size": 1115,
+				"buffer_size": 180,
 				"line_ending": "Windows"
 			}
 		},
@@ -121,33 +113,18 @@
 				"buffer_size": 1368,
 				"line_ending": "Windows"
 			}
-		},
-		{
-			"file": "/C/Users/suku/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-			"settings":
-			{
-				"buffer_size": 119,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "<?php\n/* Template Name: slider\n*/\n?>\n<div class=\"container\">\n	<div class=\"row\">\n		<div class=\"span12 span8 contents\">\n            <div class=\"flexslider\">\n			  <ul class=\"slides\">\n			    <li>\n			      <img alt='slider01' src='<?php bloginfo('template_url');?>/img/1.jpg'>\n			    </li>\n			    <li>\n			      <img alt='slider02' src='<?php bloginfo('template_url');?>/img/2.jpg'>\n			    </li>\n			  </ul>\n			</div> <!-- end flexslider -->\n		</div>	<!-- end contents ",
-			"file": "wp-content/themes/portfolio-child/slider.php",
-			"file_size": 484,
-			"file_write_time": 130329471915489829,
-			"settings":
-			{
-				"buffer_size": 462,
-				"line_ending": "Windows"
-			}
 		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 58.0,
+		"height": 392.0,
 		"selected_items":
 		[
+			[
+				"seth",
+				"Set Syntax: HTML5"
+			],
 			[
 				"install",
 				"Package Control: Install Package"
@@ -201,7 +178,7 @@
 				"Set Syntax: HTML5"
 			]
 		],
-		"width": 416.0
+		"width": 400.0
 	},
 	"console":
 	{
@@ -218,15 +195,18 @@
 	},
 	"file_history":
 	[
-		"/C/Users/suku/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-		"/C/Users/suku/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
-		"/C/Users/suku/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio/style.css",
-		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio-child/style.css",
-		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio-child/slider.php",
-		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio/header.php",
-		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio-child/footer.php",
 		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio/front-page.php",
+		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio-child/content-front.php",
+		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio-child/front-page.php",
+		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio-child/includes/slider.php",
+		"/C/Users/suku/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio-child/style.css",
+		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio-child/footer.php",
+		"/C/Users/suku/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio-child/slider.php",
+		"/C/Users/suku/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio/style.css",
+		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio/header.php",
 		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio-child/page-about.php",
 		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio/slider.php",
 		"/C/xampp/htdocs/portfolio_wp/wp-content/themes/portfolio/sidebar.php",
@@ -277,6 +257,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"template_url",
 			"slides",
 			"#7893A9",
 			"#cbdcf8",
@@ -301,23 +282,51 @@
 	"groups":
 	[
 		{
-			"selected": 7,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "wp-content/themes/portfolio-child/content-front.php",
+					"file": "wp-content/themes/portfolio-child/style.css",
 					"settings":
 					{
-						"buffer_size": 226,
+						"buffer_size": 1093,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								226,
-								226
+								1005,
+								1005
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "wp-content/themes/portfolio-child/slider.php",
+					"settings":
+					{
+						"buffer_size": 406,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								406,
+								406
 							]
 						],
 						"settings":
@@ -332,8 +341,8 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "wp-content/themes/portfolio-child/includes/slider.php",
+					"buffer": 2,
+					"file": "wp-content/themes/portfolio-child/page-about.php",
 					"settings":
 					{
 						"buffer_size": 0,
@@ -359,45 +368,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "wp-content/themes/portfolio/front-page.php",
-					"settings":
-					{
-						"buffer_size": 198,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								198,
-								198
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
 					"buffer": 3,
 					"file": "wp-content/themes/portfolio-child/front-page.php",
 					"settings":
 					{
-						"buffer_size": 188,
+						"buffer_size": 180,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								41,
-								41
+								180,
+								180
 							]
 						],
 						"settings":
@@ -412,34 +395,6 @@
 				},
 				{
 					"buffer": 4,
-					"file": "wp-content/themes/portfolio-child/style.css",
-					"settings":
-					{
-						"buffer_size": 1115,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								290,
-								290
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
 					"file": "wp-content/themes/portfolio-child/footer.php",
 					"settings":
 					{
@@ -450,61 +405,8 @@
 						"selection":
 						[
 							[
-								167,
-								167
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/C/Users/suku/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-					"settings":
-					{
-						"buffer_size": 119,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								119,
-								119
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "wp-content/themes/portfolio-child/slider.php",
-					"settings":
-					{
-						"buffer_size": 462,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								461,
-								461
+								486,
+								486
 							]
 						],
 						"settings":
